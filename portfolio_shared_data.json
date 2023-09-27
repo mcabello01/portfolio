@@ -19,21 +19,6 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
           "name": "React",
           "class": "devicon-react-original",
           "level": "80"
@@ -74,9 +59,19 @@
           "level": "65"
         },
         {
-          "name": "MySql",
+          "name": "MySQL",
           "class": "devicon-mysql-plain",
           "level": "60"
+        },
+        {
+          "name": "HTML",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS",
+          "class": "devicon-css3-plain",
+          "level": "95"
         }
       ]
     }
