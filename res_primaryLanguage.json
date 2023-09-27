@@ -15,8 +15,9 @@
         "startDate": "2023",
         "description": "musicRemote allows every user in the room to give their opinion on the current song being played. Users can vote to skip, pause, and play the current song in the queue. The application stack consists of React, and Django.",
         "images": [
-          "images/portfolio/musicRemote/p1.jpeg",
-          "images/portfolio/musicRemote/p1.jpeg"
+          "images/portfolio/musicRemote/p1.jpg",
+          "images/portfolio/musicRemote/p2.jpg",
+          "images/portfolio/musicRemote/p3.jpg"
         ],
         "url": "",
         "technologies": [
@@ -37,7 +38,7 @@
         "description": "Fysio engages and motivates people who have to undergo physical therapy by giving patients interactive games to have fun with and improve on their condition. The application stack consists of Unity, Flutter, ExpressJs and postgresql.",
         "images": [
           "images/portfolio/fysio/p1.jpeg",
-          "images/portfolio/fysio/p1.jpeg"
+          "images/portfolio/fysio/p2.jpg"
         ],
         "url": "",
         "technologies": [
@@ -52,6 +53,32 @@
           {
             "class": "devicon-csharp-plain",
             "name": "Flutter"
+          }
+        ]
+      },
+
+      {
+        "title": "FitnessGuru",
+        "startDate": "2021",
+        "description": "Fitness Guru helps users plan their next workout routine and visually/statistically keep track of their progress in their workout journey. The application stack consists of React, ExpressJs, and MongoDB.",
+        "images": [
+          "images/portfolio/fitnessGuru/p1.jpg",
+          "images/portfolio/fitnessGuru/p2.jpg",
+          "images/portfolio/fitnessGuru/p3.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "ExpressJs"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "MongoDB"
           }
         ]
       }
