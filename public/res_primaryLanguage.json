@@ -11,26 +11,47 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "musicRemote",
+        "startDate": "2023",
+        "description": "musicRemote allows every user in the room to give their opinion on the current song being played. Users can vote to skip, pause, and play the current song in the queue. The application stack consists of React, and Django.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/musicRemote/p1.jpeg",
+          "images/portfolio/musicRemote/p1.jpeg"
         ],
         "url": "",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "Django"
+          }
+        ]
+      },
+      
+      {
+        "title": "Fysio",
+        "startDate": "2022",
+        "description": "Fysio engages and motivates people who have to undergo physical therapy by giving patients interactive games to have fun with and improve on their condition. The application stack consists of Unity, Flutter, ExpressJs and postgresql.",
+        "images": [
+          "images/portfolio/fysio/p1.jpeg",
+          "images/portfolio/fysio/p1.jpeg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Unity"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "ExpressJs"
           },
           {
             "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "Flutter"
           }
         ]
       }
