@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hola 👋",
-    "description": "Yo soy Martin Cabello. Soy un recién graduado de UCSB, con especialización en Ciencias de la Computación. Actualmente estoy buscando un puesto de ingeniero de software.",
+    "description": "Yo soy Martin Cabello. Soy un recién graduado de la Universidad de California, Santa Barbara con una Licenciatura en Ciencias de Computación. Actualmente estoy buscando un puesto de ingeniero de software.",
     "section_name": {
       "about": "Sobre mi",
       "projects": "Projectos",
@@ -15,8 +15,8 @@
       "startDate": "2023",
       "description": "MusicRemote permite a todos los usuarios de la sala dar su opinión sobre la canción que se está reproduciendo actualmente. Los usuarios pueden votar para omitir, pausar y reproducir la canción actual. La pila de aplicaciones consta de React y Django.",
       "images": [
-        "images/portfolio/musicRemote/p1.jpg",
-        "images/portfolio/musicRemote/p3.jpg"
+        "images/portfolio/musicRemote/m1.jpg",
+        "images/portfolio/musicRemote/m3.jpg"
       ],
       "url": "",
       "technologies": [
@@ -36,8 +36,8 @@
       "startDate": "2022",
       "description": "Fysio involucra y motiva a las personas que necesitan someterse a fisioterapia ofreciéndoles juegos interactivos para divertirse y mejorar su condición. La pila de aplicaciones consta de Unity, Flutter, ExpressJs y postgresql.",
       "images": [
-        "images/portfolio/fysio/p1.jpeg",
-        "images/portfolio/fysio/p2.jpg"
+        "images/portfolio/fysio/m1.jpg",
+        "images/portfolio/fysio/m3.jpg"
       ],
       "url": "",
       "technologies": [
@@ -61,9 +61,8 @@
       "startDate": "2021",
       "description": "Fitness Guru ayuda a los usuarios a planificar su próxima rutina de ejercicios y realizar un seguimiento visual y estadístico de su progreso en su recorrido de entrenamiento. La pila de aplicaciones consta de React, ExpressJs y MongoDB.",
       "images": [
-        "images/portfolio/fitnessGuru/p1.jpg",
-        "images/portfolio/fitnessGuru/p2.jpg",
-        "images/portfolio/fitnessGuru/p3.jpg"
+        "images/portfolio/fitnessGuru/m1.jpg",
+        "images/portfolio/fitnessGuru/m3.jpg"
       ],
       "url": "",
       "technologies": [
