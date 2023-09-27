@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Martin Cabello",
+      "titles": [ "Software Engineer" ],
       "social": [
         {
           "name": "github",
@@ -19,12 +19,12 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
+          "name": "HTML",
           "class": "devicon-html5-plain",
           "level": "95"
         },
         {
-          "name": "CSS 3",
+          "name": "CSS",
           "class": "devicon-css3-plain",
           "level": "95"
         },
