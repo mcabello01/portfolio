@@ -1,12 +1,12 @@
 {
     "basic_info": {
       "name": "Martin Cabello",
-      "titles": [ "Software Engineer" ],
+      "titles": [ "Software Engineer"],
       "social": [
         {
-          "name": "github",
-          "url": "https://github.com",
-          "class": "fab fa-github"
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/martincjr01/",
+          "class": "fab fa-linkedin"
         },
         {
           "name": "instagram",
@@ -29,13 +29,28 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "Flutter",
+          "class": "devicon-flutter-plain",
+          "level": "80"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "90"
+        },
+        {
+          "name": "ExpressJs",
+          "class": "devicon-express-original",
           "level": "90"
         },
         {
@@ -44,14 +59,14 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Java",
+          "class": "devicon-java-plain",
           "level": "75"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "65"
         },
         {
           "name": "C#",
