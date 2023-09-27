@@ -11,22 +11,21 @@
     },
     "projects": [
       {
-        "title": "musicRemote",
+        "title": "MusicRemote",
         "startDate": "2023",
         "description": "musicRemote allows every user in the room to give their opinion on the current song being played. Users can vote to skip, pause, and play the current song in the queue. The application stack consists of React, and Django.",
         "images": [
           "images/portfolio/musicRemote/p1.jpg",
-          "images/portfolio/musicRemote/p2.jpg",
           "images/portfolio/musicRemote/p3.jpg"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
+            "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
+            "class": "devicon-django-plain",
             "name": "Django"
           }
         ]
@@ -43,15 +42,15 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
+            "class": "devicon-unity-original",
             "name": "Unity"
           },
           {
-            "class": "devicon-typescript-plain",
+            "class": "devicon-express-original",
             "name": "ExpressJs"
           },
           {
-            "class": "devicon-csharp-plain",
+            "class": "devicon-flutter-plain",
             "name": "Flutter"
           }
         ]
@@ -69,15 +68,15 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
+            "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
+            "class": "devicon-express-original",
             "name": "ExpressJs"
           },
           {
-            "class": "devicon-typescript-plain",
+            "class": "devicon-mongodb-plain",
             "name": "MongoDB"
           }
         ]
