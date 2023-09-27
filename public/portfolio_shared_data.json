@@ -26,51 +26,51 @@
         {
           "name": "Flutter",
           "class": "devicon-flutter-plain",
-          "level": "80"
+          "level": "70"
         },
         {
           "name": "Django",
           "class": "devicon-django-plain",
-          "level": "90"
+          "level": "80"
         },
         {
           "name": "ExpressJs",
           "class": "devicon-express-original",
-          "level": "90"
+          "level": "75"
         },
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
-          "level": "70"
+          "level": "90"
         },
         {
           "name": "Java",
           "class": "devicon-java-plain",
-          "level": "75"
+          "level": "70"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
         },
         {
           "name": "C++",
           "class": "devicon-cplusplus-plain",
-          "level": "65"
+          "level": "95"
         },
         {
           "name": "C#",
           "class": "devicon-csharp-plain",
-          "level": "65"
+          "level": "80"
         },
         {
           "name": "MySQL",
           "class": "devicon-mysql-plain",
-          "level": "60"
+          "level": "80"
         },
         {
           "name": "HTML",
           "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS",
-          "class": "devicon-css3-plain",
           "level": "95"
         }
       ]
