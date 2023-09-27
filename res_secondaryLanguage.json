@@ -83,8 +83,8 @@
   ],
   "experience": [
     {
-      "company": "Toyon Research Corporation, Autonomous Team",
-      "title": "Software Developer Intern",
+      "company": "Toyon Research Corporation, Equipo Autónomo",
+      "title": "Ingeniero de Software",
       "years": "04.2023 - 07.2023",
       "mainTech": [
         "C++"
@@ -96,8 +96,8 @@
       ]
     },
     {
-      "company": "Toyon Research Corporation, Algorithms Team",
-      "title": "Software Developer Intern",
+      "company": "Toyon Research Corporation, Equipo de Algoritmos",
+      "title": "Ingeniero de Software",
       "years": "12.2022 - 04.2023",
       "mainTech": [
         "C++"
@@ -111,7 +111,7 @@
     },
     {
       "company": "University of California, Santa Barbara",
-      "title": "Undergraduate Learning Assistant",
+      "title": "Asistente de Aprendizaje",
       "years": "09.2022 - 01.2023",
       "mainTech": [
         "C++"
