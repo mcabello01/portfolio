@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import reactIcon from "@iconify/icons-logos/react";
 import pythonIcon from "@iconify/icons-logos/python";
-import cIcon from "@iconify/icons-logos/c";
+import cplusplusIcon from "@iconify/icons-logos/cplusplus";
 
 
 
@@ -41,7 +41,7 @@ class About extends Component {
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={cIcon}
+                    icon={cplusplusIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
