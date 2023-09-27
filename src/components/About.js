@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import reactIcon from "@iconify/icons-logos/react";
 import pythonIcon from "@iconify/icons-logos/python";
-import cplusplusIcon from "@iconify/icons-logos/cplusplus";
+import cplusplusIcon from "@iconify/icons-logos/c";
 
 
 
