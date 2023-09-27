@@ -13,7 +13,7 @@
       {
         "title": "MusicRemote",
         "startDate": "2023",
-        "description": "musicRemote allows every user in the room to give their opinion on the current song being played. Users can vote to skip, pause, and play the current song in the queue. The application stack consists of React, and Django.",
+        "description": "MusicRemote allows every user in the room to give their opinion on the current song being played. Users can vote to skip, pause, and play the current song in the queue. The application stack consists of React, and Django.",
         "images": [
           "images/portfolio/musicRemote/p1.jpg",
           "images/portfolio/musicRemote/p3.jpg"
@@ -88,13 +88,12 @@
         "title": "Software Developer Intern",
         "years": "04.2023 - 07.2023",
         "mainTech": [
-          "C++ 8/9/10"
+          "C++"
         ],
         "technologies": [
-          "JavaScript",
           "Matlab",
           "C++",
-          "Python"
+          "Python"        
         ]
       },
       {
@@ -102,10 +101,23 @@
         "title": "Software Developer Intern",
         "years": "12.2022 - 04.2023",
         "mainTech": [
-          "C++ 7/8"
+          "C++"
         ],
         "technologies": [
+          "C++",
+          "Python",
           "Matlab",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "University of California, Santa Barbara",
+        "title": "Undergraduate Learning Assistant",
+        "years": "09.2022 - 01.2023",
+        "mainTech": [
+          "C++"
+        ],
+        "technologies": [
           "C++",
           "Python",
           "JavaScript"
