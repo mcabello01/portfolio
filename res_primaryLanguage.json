@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi 👋",
-      "description": " I'm Martin Cabello. I'm a recent grad from the University of California, Santa Barbara with a B.S. Computer Science. I am currently looking for a Software Engineering role.",
+      "description": " I'm Martin Cabello. Welcome to my portfolio! I am currently looking for a Software Engineering role!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -105,8 +105,8 @@
         "technologies": [
           "C++",
           "Python",
-          "Matlab",
-          "JavaScript"
+          "JavaScript",
+          "Matlab"
         ]
       },
       {
